@@ -1,4 +1,4 @@
-# notification-test
+# FIREBASE-PUSH-NOTIFICATION-NODE JS-SAILS JS-JAVASCRIPT
 
 a [Sails v1](https://sailsjs.com) application
 
